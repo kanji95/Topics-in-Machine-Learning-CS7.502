@@ -1,1 +1,1 @@
-# Topics in Deep Learning at IIIT Hyderabad (Fall 2021)
+# CS7.502 at IIIT Hyderabad (Fall 2021)
